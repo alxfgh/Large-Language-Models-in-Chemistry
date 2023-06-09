@@ -1,2 +1,2 @@
-# LLMs-as-Generative-Chemical-Models
-Working draft of a review of LLMs as generative chemical models
+# Transformer-based-Generative-Chemical-Models
+References for transformers as generative chemical models
