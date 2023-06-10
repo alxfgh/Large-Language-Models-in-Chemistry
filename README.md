@@ -1,4 +1,4 @@
-# Transformers in Chemistry: A working collection
+# Transformers in Chemistry
 
 ## Encoder-Decoder Models (T5, T5X, BART)
 - Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction. [PAPER](https://arxiv.org/abs/1811.02633) [REPO](https://github.com/pschwllr/MolecularTransformer)
