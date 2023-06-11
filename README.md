@@ -1,7 +1,7 @@
 # Transformer-based Large Language Models in Chemistry
   
   
->*The history of philosophy is the history of forgetting - problems and ideas once examined fall out of sight and out of mind only to resurface later as novel and new*
+>*The history of philosophy is the history of forgetting. Problems and ideas once examined fall out of sight and out of mind only to resurface later as novel and new.*
   
 ## Encoder-Decoder Models (T5, BART, Molecular Transformer, etc.)
 - Multitask Text and Chemistry T5: Unifying Molecular and Textual Representations via Multi-task Language Modelling. [[PAPER]](https://arxiv.org/abs/2301.12586) [[REPO]](https://github.com/GT4SD/multitask_text_and_chemistry_t5)
