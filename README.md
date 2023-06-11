@@ -7,7 +7,7 @@
 - T5Chem: Unified Deep Learning Model for Multitask Reaction Predictions with Explanation. [[PAPER]](https://pubmed.ncbi.nlm.nih.gov/35266390/) [[REPO]](https://yzhang.hpc.nyu.edu/T5Chem)
 - MolBART. [[REPO]](https://github.com/MolecularAI/MolBART) [[MODEL]](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/megamolbart)
 
-## Prefix Language Models (BERT, XLNet, etc.)
+## Encoder Only Models (BERT, XLNet, etc.)
 - ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction. [[PAPER]](https://arxiv.org/abs/2010.09885) [[REPO]](https://github.com/seyonechithrananda/bert-loves-chemistry)
 - RXNFP: Mapping the Space of Chemical Reactions using Attention-Based Neural Networks. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c753a0bdbb89acf8a3a4b5) [[REPO]](https://github.com/rxn4chemistry/rxnfp)
 - MolBERT: Molecular representation learning with language models and domain-relevant auxiliary tasks. [[PAPER]](https://arxiv.org/abs/2011.13230) [[REPO]](https://github.com/BenevolentAI/MolBERT)
@@ -15,7 +15,7 @@
 - Regression Transformer enables concurrent sequence regression and generation for molecular language modelling. [[PAPER]](https://arxiv.org/abs/2202.01338) [[REPO]](https://github.com/IBM/regression-transformer)
 - DeLiCaTe: Chemical transformer compression for accelerating both training and inference of molecular modeling. [[PAPER]](https://arxiv.org/ftp/arxiv/papers/2205/2205.07582.pdf) [[REPO]](https://github.com/YiYuDL/DeLiCaTe)
 
-## Causal Decoders (GPT)
+## Causal Decoder Only Models (GPT)
 - MolGPT: Molecular Generation Using a Transformer-Decoder Model. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c7588e469df48597f456ae) [[REPO]](https://github.com/devalab/molgpt)
 - ChemGPT: Neural Scaling of Deep Chemical Models. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/627bddd544bdd532395fb4b5) [[REPO]](https://github.com/ncfrey/litmatter)
 - XYZTransformer: Language models can generate molecules, materials, and protein binding sites directly in three dimensions as XYZ, CIF, and PDB files. [[PAPER]](https://arxiv.org/abs/2305.05708) [[REPO - Currently unavailable]](https://github.com/danielflamshep/xyztransformer)
