@@ -66,5 +66,6 @@
 - The Druglike molecule pretraining strategy for drug discovery. [[PAPER]](https://www.researchsquare.com/article/rs-2492051/v1)
 - Accelerating the design and development of polymeric materials via deep learning: Current status and future challenges. [[PAPER]](https://doi.org/10.1063/5.0131067)
 - Adaptive Language Model Training for Molecular Design. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/64362fa70784a63aeef63ac1)
+- A [note](https://twitter.com/YiTayML/status/1651927473884655616) on architectures
 - Graphormer: Do Transformers Really Perform Badly for Graph Representation? [[PAPER]](https://openreview.net/forum?id=OeWooOxFwDa) [[REPO]](https://github.com/microsoft/Graphormer)
 - Social Amnesia (History did not start in 2017) [[BOOK]](https://cominsitu.files.wordpress.com/2021/08/russell-jacoby-social-amnesia-a-critique-of-contemporary-psychology-from-adler-to-laing.pdf)
