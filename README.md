@@ -13,11 +13,14 @@
 - MoLFormer: Large-Scale Chemical Language Representations Capture Molecular Structure and Properties [[PAPER]](https://arxiv.org/abs/2106.09553) [[REPO]](https://github.com/IBM/molformer)
 - Regression Transformer enables concurrent sequence regression and generation for molecular language modelling. [[PAPER]](https://arxiv.org/abs/2202.01338) [[REPO]](https://github.com/IBM/regression-transformer)
 - DeLiCaTe: Chemical transformer compression for accelerating both training and inference of molecular modeling. [[PAPER]](https://arxiv.org/ftp/arxiv/papers/2205/2205.07582.pdf) [[REPO]](https://github.com/YiYuDL/DeLiCaTe)
+- MatSciBERT: A materials domain language model for text mining and information extraction [[PAPER]](https://www.nature.com/articles/s41524-022-00784-w) [[REPO]](https://github.com/M3RG-IITD/MatSciBERT)
 
 ## Causal Decoder Only Models (GPT)
 - MolGPT: Molecular Generation Using a Transformer-Decoder Model. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c7588e469df48597f456ae) [[REPO]](https://github.com/devalab/molgpt)
 - ChemGPT: Neural Scaling of Deep Chemical Models. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/627bddd544bdd532395fb4b5) [[REPO]](https://github.com/ncfrey/litmatter)
-- XYZTransformer: Language models can generate molecules, materials, and protein binding sites directly in three dimensions as XYZ, CIF, and PDB files. [[PAPER]](https://arxiv.org/abs/2305.05708) [[REPO - Currently unavailable]](https://github.com/danielflamshep/xyztransformer)
+- XYZTransformer: Language models can generate molecules, materials, and protein binding sites directly in three dimensions as XYZ, CIF, and PDB files. [[PAPER]](https://arxiv.org/abs/2305.05708)
+- OptoGPT: A Foundation Model for Inverse Design in Optical Multilayer Thin Film Structures [[PAPER]](https://arxiv.org/abs/2304.10294)
+- MolXPT: Wrapping Molecules with Text for Generative Pre-training [[PAPER]](https://arxiv.org/abs/2305.10688)
 - Galactica: A Large Language Model for Science [[PAPER]](https://arxiv.org/abs/2211.09085) [[REPO]](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ## Non-LLM Transformer
