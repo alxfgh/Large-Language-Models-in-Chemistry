@@ -31,7 +31,5 @@
 - Neural Scaling of Deep Chemical Models. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/627bddd544bdd532395fb4b5)
 - Graphormer: Do Transformers Really Perform Badly for Graph Representation? [[PAPER]](https://openreview.net/forum?id=OeWooOxFwDa) [[REPO]](https://github.com/microsoft/Graphormer)
 - ChemBERTa-2: Towards Chemical Foundation Models. [[PAPER]](https://arxiv.org/abs/2209.01712)
-- Social Amnesia - History did not start in 2017. [[BOOK]](https://cominsitu.files.wordpress.com/2021/08/russell-jacoby-social-amnesia-a-critique-of-contemporary-psychology-from-adler-to-laing.pdf)
+- Social Amnesia (History did not start in 2017) [[BOOK]](https://cominsitu.files.wordpress.com/2021/08/russell-jacoby-social-amnesia-a-critique-of-contemporary-psychology-from-adler-to-laing.pdf)
 
-
-Last Updated June 10th, 2023.
