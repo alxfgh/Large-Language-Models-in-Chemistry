@@ -17,11 +17,14 @@
 - MolGen: Domain-Agnostic Molecular Generation with Self-feedback. [[PAPER]](https://arxiv.org/pdf/2301.11259.pdf) [[REPO]](https://github.com/zjunlp/MolGen)
 - TransformMolecules: Can We Quickly Learn to “Translate” Bioactive Molecules with Transformer Models? [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/639c9de1e9d0fd49a41f6d30) [[REPO]](https://github.com/pfizer-opensource/transform-molecules)
 - A Pre-trained Conditional Transformer for Target-specific De Novo Molecular Generation. [[PAPER]](https://arxiv.org/abs/2210.08749)
+- Transformer-CNN: Swiss knife for QSAR modeling and interpretation. [[PAPER]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00423-w#Sec2) [[REPO]](https://github.com/bigchem/transformer-cnn)
 - SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery. [[PAPER]](https://arxiv.org/abs/1911.04738) [[REPO]](https://github.com/DSPsleeporg/smiles-transformer)
 - Chemformer: a pre-trained transformer for computational chemistry. [[PAPER]](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb) [[REPO]](https://github.com/MolecularAI/Chemformer)
 - FragNet: Contrastive Learning-Based Transformer Model for Clustering, Interpreting, Visualizing, and Navigating Chemical Space. [[PAPER]](https://www.mdpi.com/1420-3049/26/7/2065)
 - PanGu Drug Model: Learn a Molecule Like a Human. [[PAPER]](https://www.biorxiv.org/content/10.1101/2022.03.31.485886v1.full)
-- Transformer-based artificial neural networks for the conversion between chemical notations. [[PAPER]](https://www.nature.com/articles/s41598-021-94082-y) [[REPO]](https://github.com/sergsb/IUPAC2Struct)
+- State-of-the-art augmented NLP transformer models for direct and single-step retrosynthesis. [[PAPER]](https://www.nature.com/articles/s41467-020-19266-y#Sec27) [[REPO]](https://github.com/bigchem/synthesis)
+- Struct2IUPAC: Transformer-based artificial neural networks for the conversion between chemical notations. [[PAPER]](https://www.nature.com/articles/s41598-021-94082-y) [[REPO]](https://github.com/sergsb/IUPAC2Struct)
+- Transformer-based Approach for Predicting Chemical Compound Structures. [[PAPER]](https://aclanthology.org/2020.aacl-main.19/)
 - MolBART. [[REPO]](https://github.com/MolecularAI/MolBART) [[MODEL]](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/megamolbart)
 
 ## Encoder Only Models (BERT, XLNet, etc.)
@@ -77,6 +80,7 @@
 - UnCorrupt SMILES: a novel approach to de novo design. [[PAPER]](https://link.springer.com/article/10.1186/s13321-023-00696-x) [[REPO]](https://github.com/LindeSchoenmaker/SMILES-corrector)
 - Crystal Transformer: Self-learning neural language model for Generative and Tinkering Design of Materials. [[PAPER]](https://arxiv.org/abs/2204.11953)
 - Leveraging molecular structure and bioactivity with chemical language models for de novo drug design. [[PAPER]](https://www.nature.com/articles/s41467-022-35692-6#Sec11) [[REPO]](https://zenodo.org/record/7370858)
+- STOUT: SMILES to IUPAC names using neural machine translation. [[PAPER]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00512-4#Sec123) [[MODEL]](https://github.com/Kohulan/Smiles-TO-iUpac-Translator)
   
 ## General works of Interest
 - A Systematic Survey of Chemical Pre-trained Models. [[PAPER]](https://sxkdz.github.io/files/publications/IJCAI/CPM/CPM.pdf)
