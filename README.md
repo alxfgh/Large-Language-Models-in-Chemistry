@@ -21,7 +21,7 @@
 - XYZTransformer: Language models can generate molecules, materials, and protein binding sites directly in three dimensions as XYZ, CIF, and PDB files. [[PAPER]](https://arxiv.org/abs/2305.05708) [[REPO - Currently unavailable]](https://github.com/danielflamshep/xyztransformer)
 
 
-## Of Interest
+## Works of Interest
 - Evaluating the roughness of structure-property relationships using pretrained molecular representations. [[PAPER]](https://arxiv.org/abs/2305.08238)
 - Unassisted Noise-Reduction of Chemical Reactions Data Sets. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c75487842e65e86ddb4161)
 - Automated Extraction of Chemical Synthesis Actions from Experimental Procedures. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c749fbee301c10e1c79b75)
