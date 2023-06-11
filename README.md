@@ -57,7 +57,7 @@
 - X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis. [[PAPER]](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2) 
   
 ## Other architectures
-- GROVER:Self-Supervised Graph Transformer on Large-Scale Molecular Data. [[PAPER]](https://papers.nips.cc/paper_files/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf)
+- GROVER: Self-Supervised Graph Transformer on Large-Scale Molecular Data. [[PAPER]](https://papers.nips.cc/paper_files/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf)
 - DMP: Dual-view Molecule Pre-training. [[PAPER]](https://arxiv.org/abs/2106.10234) [[REPO]](
 - MICER: a pre-trained encoder–decoder architecture for molecular image captioning. [[PAPER]](https://academic.oup.com/bioinformatics/article/38/19/4562/6656348) [[MODEL]](https://github.com/Jiacai-Yi/MICER)
 - Fragment-based t-SMILES for de novo molecular generation. [[PAPER]](https://arxiv.org/abs/2301.01829) [[REPO]](https://github.com/juanniwu/t-SMILES/)
