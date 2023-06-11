@@ -29,7 +29,7 @@
 - Transformer Quantum State: A Multi-Purpose Model for Quantum Many-Body Problems. [[PAPER]](https://arxiv.org/abs/2208.01758) [[REPO]](https://github.com/yuanhangzhang98/transformer_quantum_state)
 - Taiga: Molecule generation using transformers and policy gradient reinforcement learning. [[PAPER]](https://pubmed.ncbi.nlm.nih.gov/37258546/) [[REPO]](https://github.com/eyalmazuz/MolGen)
   
-## Causal Decoder Only Models (GPT, etc.)
+## Decoder Only Models (GPT, etc.)
 - MolGPT: Molecular Generation Using a Transformer-Decoder Model. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c7588e469df48597f456ae) [[REPO]](https://github.com/devalab/molgpt)
 - ChemGPT: Neural Scaling of Deep Chemical Models. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/627bddd544bdd532395fb4b5) [[REPO]](https://github.com/ncfrey/litmatter)
 - OptoGPT: A Foundation Model for Inverse Design in Optical Multilayer Thin Film Structures. [[PAPER]](https://arxiv.org/abs/2304.10294)
