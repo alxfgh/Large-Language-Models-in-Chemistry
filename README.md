@@ -92,5 +92,5 @@
 - The Druglike molecule pretraining strategy for drug discovery. [[PAPER]](https://www.researchsquare.com/article/rs-2492051/v1)
 - Accelerating the design and development of polymeric materials via deep learning: Current status and future challenges. [[PAPER]](https://doi.org/10.1063/5.0131067)
 - Adaptive Language Model Training for Molecular Design. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/64362fa70784a63aeef63ac1)
-- A [note](https://archive.md/OvucI) on architectures.
+- A [note](https://archive.md/OvucI) on transformer architectures.
 - Social Amnesia (History did not start in 2017) [[BOOK]](https://cominsitu.files.wordpress.com/2021/08/russell-jacoby-social-amnesia-a-critique-of-contemporary-psychology-from-adler-to-laing.pdf)
