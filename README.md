@@ -1,9 +1,9 @@
-# Transformer-based Large Language Models in Chemistry
+#Transformer-based Large Language Models in Chemistry
   
   
 >*The history of philosophy is the history of forgetting. Problems and ideas once examined fall out of sight and out of mind only to resurface later as novel and new.*
   
-## Encoder-Decoder Models (T5, BART, Molecular Transformer, etc.)
+##Encoder-Decoder Models (T5, BART, Molecular Transformer, etc.)
 - Multitask Text and Chemistry T5: Unifying Molecular and Textual Representations via Multi-task Language Modelling. [[PAPER]](https://arxiv.org/abs/2301.12586) [[REPO]](https://github.com/GT4SD/multitask_text_and_chemistry_t5)
 - MolT5: Translation between Molecules and Natural Language. [[PAPER]](https://blender.cs.illinois.edu/paper/molt5.pdf) [[REPO]](https://github.com/blender-nlp/MolT5)
 - Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction. [[PAPER]](https://arxiv.org/abs/1811.02633) [[REPO]](https://github.com/pschwllr/MolecularTransformer)
@@ -27,7 +27,7 @@
 - Transformer-based Approach for Predicting Chemical Compound Structures. [[PAPER]](https://aclanthology.org/2020.aacl-main.19/)
 - MolBART. [[REPO]](https://github.com/MolecularAI/MolBART) [[MODEL]](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/megamolbart)
 
-## Encoder Only Models (BERT, XLNet, etc.)
+##Encoder Only Models (BERT, XLNet, etc.)
 - Regression Transformer enables concurrent sequence regression and generation for molecular language modelling. [[PAPER]](https://arxiv.org/abs/2202.01338) [[REPO]](https://github.com/IBM/regression-transformer)
 - MOFormer: Self-Supervised Transformer model for Metal-Organic Framework Property Prediction. [[PAPER]](https://arxiv.org/abs/2210.14188) [[REPO]](https://github.com/zcao0420/MOFormer)
 - RXNFP: Mapping the Space of Chemical Reactions using Attention-Based Neural Networks. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c753a0bdbb89acf8a3a4b5) [[REPO]](https://github.com/rxn4chemistry/rxnfp)
@@ -47,7 +47,7 @@
 - MM-Deacon: Multilingual Molecular Representation Learning via Contrastive Pre-training. [[PAPER]](https://arxiv.org/abs/2109.08830)
 - MEMO: A Multiview Contrastive Learning Approach to Molecular Pretraining. [[PAPER]](https://openreview.net/pdf?id=Pm1Q1X3avx1)
   
-## Decoder Only Models (GPT, etc.)
+##Decoder Only Models (GPT, etc.)
 - MolGPT: Molecular Generation Using a Transformer-Decoder Model. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c7588e469df48597f456ae) [[REPO]](https://github.com/devalab/molgpt)
 - ChemGPT: Neural Scaling of Deep Chemical Models. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/627bddd544bdd532395fb4b5) [[REPO]](https://github.com/ncfrey/litmatter)
 - OptoGPT: A Foundation Model for Inverse Design in Optical Multilayer Thin Film Structures. [[PAPER]](https://arxiv.org/abs/2304.10294)
@@ -61,7 +61,7 @@
 - LigGPT: Molecular Generation using a Transformer-Decoder Model. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c7588e469df48597f456ae) [[REPO]](https://github.com/VirajBagal/LigGPT)
 - X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis. [[PAPER]](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2) 
   
-## Other architectures
+##Other architectures
 - GROVER: Self-Supervised Graph Transformer on Large-Scale Molecular Data. [[PAPER]](https://papers.nips.cc/paper_files/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf)
 - DMP: Dual-view Molecule Pre-training. [[PAPER]](https://arxiv.org/abs/2106.10234) [[REPO]](
 - MICER: a pre-trained encoder–decoder architecture for molecular image captioning. [[PAPER]](https://academic.oup.com/bioinformatics/article/38/19/4562/6656348) [[MODEL]](https://github.com/Jiacai-Yi/MICER)
@@ -82,7 +82,7 @@
 - Leveraging molecular structure and bioactivity with chemical language models for de novo drug design. [[PAPER]](https://www.nature.com/articles/s41467-022-35692-6#Sec11) [[REPO]](https://zenodo.org/record/7370858)
 - STOUT: SMILES to IUPAC names using neural machine translation. [[PAPER]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00512-4#Sec123) [[MODEL]](https://github.com/Kohulan/Smiles-TO-iUpac-Translator)
   
-## General works of Interest
+##General works of Interest
 - A Systematic Survey of Chemical Pre-trained Models. [[PAPER]](https://sxkdz.github.io/files/publications/IJCAI/CPM/CPM.pdf)
 - Comparative Study of Deep Generative Models on Chemical Space Coverage. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c755389abda285f4f8e2d1)
 - Explainability Techniques for Chemical Language Models. [[PAPER]](https://arxiv.org/abs/2305.16192)
