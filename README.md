@@ -14,16 +14,17 @@
 - T5 Chem: Unified Deep Learning Model for Multitask Reaction Predictions with Explanation. [[PAPER]](https://pubmed.ncbi.nlm.nih.gov/35266390/) [[REPO]](https://yzhang.hpc.nyu.edu/T5Chem)
 - MolGen: Domain-Agnostic Molecular Generation with Self-feedback. [[PAPER]](https://arxiv.org/pdf/2301.11259.pdf) [[REPO]](https://github.com/zjunlp/MolGen)
 - TransformMolecules: Can We Quickly Learn to “Translate” Bioactive Molecules with Transformer Models? [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/639c9de1e9d0fd49a41f6d30) [[REPO]](https://github.com/pfizer-opensource/transform-molecules)
-- MICER: a pre-trained encoder–decoder architecture for molecular image captioning. [[PAPER]](https://academic.oup.com/bioinformatics/article/38/19/4562/6656348) [[MODEL]](https://github.com/Jiacai-Yi/MICER)
 - A Pre-trained Conditional Transformer for Target-specific De Novo Molecular Generation. [[PAPER]](https://arxiv.org/abs/2210.08749)
 - SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery. [[PAPER]](https://arxiv.org/abs/1911.04738) [[REPO]](https://github.com/DSPsleeporg/smiles-transformer)
 - MolBART. [[REPO]](https://github.com/MolecularAI/MolBART) [[MODEL]](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/megamolbart)
 - FragNet: Contrastive Learning-Based Transformer Model for Clustering, Interpreting, Visualizing, and Navigating Chemical Space. [[PAPER]](https://www.mdpi.com/1420-3049/26/7/2065)
+- PanGu Drug Model: Learn a Molecule Like a Human. [[PAPER]](https://www.biorxiv.org/content/10.1101/2022.03.31.485886v1.full)
   
 ## Encoder Only Models (BERT, XLNet, etc.)
 - Regression Transformer enables concurrent sequence regression and generation for molecular language modelling. [[PAPER]](https://arxiv.org/abs/2202.01338) [[REPO]](https://github.com/IBM/regression-transformer)
 - MOFormer: Self-Supervised Transformer model for Metal-Organic Framework Property Prediction. [[PAPER]](https://arxiv.org/abs/2210.14188) [[REPO]](https://github.com/zcao0420/MOFormer)
 - RXNFP: Mapping the Space of Chemical Reactions using Attention-Based Neural Networks. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c753a0bdbb89acf8a3a4b5) [[REPO]](https://github.com/rxn4chemistry/rxnfp)
+- KV-PLM: A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals. [[PAPER]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8844428/) [[REPO]](https://github.com/thunlp/KV-PLM)
 - ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction. [[PAPER]](https://arxiv.org/abs/2010.09885) [[REPO]](https://github.com/seyonechithrananda/bert-loves-chemistry)
   - ChemBERTa-2: Towards Chemical Foundation Models. [[PAPER]](https://arxiv.org/abs/2209.01712)
 - MolBERT: Molecular representation learning with language models and domain-relevant auxiliary tasks. [[PAPER]](https://arxiv.org/abs/2011.13230) [[REPO]](https://github.com/BenevolentAI/MolBERT)
@@ -35,8 +36,9 @@
 - SolvBERT for solvation free energy and solubility prediction: a demonstration of an NLP model for predicting the properties of molecular complexes. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/633d6bbfea6a225b1809e24e) [[REPO]](https://github.com/su-group/SolvBERT)
 - Transformer Quantum State: A Multi-Purpose Model for Quantum Many-Body Problems. [[PAPER]](https://arxiv.org/abs/2208.01758) [[REPO]](https://github.com/yuanhangzhang98/transformer_quantum_state)
 - Taiga: Molecule generation using transformers and policy gradient reinforcement learning. [[PAPER]](https://pubmed.ncbi.nlm.nih.gov/37258546/) [[REPO]](https://github.com/eyalmazuz/MolGen)
-- SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction. [[PAPER]](https://par.nsf.gov/servlets/purl/10168888) [[REPO]](
-- MM-Deacon: Multilingual Molecular Representation Learning via Contrastive Pre-training. [[PAPER]](https://arxiv.org/abs/2109.08830) 
+- SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction. [[PAPER]](https://par.nsf.gov/servlets/purl/10168888) [[REPO]](https://github.com/uta-smile/SMILES-BERT)
+- MM-Deacon: Multilingual Molecular Representation Learning via Contrastive Pre-training. [[PAPER]](https://arxiv.org/abs/2109.08830)
+- MEMO: A Multiview Contrastive Learning Approach to Molecular Pretraining. [[PAPER]](https://openreview.net/pdf?id=Pm1Q1X3avx1)
   
 ## Decoder Only Models (GPT, etc.)
 - MolGPT: Molecular Generation Using a Transformer-Decoder Model. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c7588e469df48597f456ae) [[REPO]](https://github.com/devalab/molgpt)
@@ -55,6 +57,7 @@
 ## Other architectures
 - GROVER:Self-Supervised Graph Transformer on Large-Scale Molecular Data. [[PAPER]](https://papers.nips.cc/paper_files/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf)
 - DMP: Dual-view Molecule Pre-training. [[PAPER]](https://arxiv.org/abs/2106.10234) [[REPO]](
+- MICER: a pre-trained encoder–decoder architecture for molecular image captioning. [[PAPER]](https://academic.oup.com/bioinformatics/article/38/19/4562/6656348) [[MODEL]](https://github.com/Jiacai-Yi/MICER)
 - Fragment-based t-SMILES for de novo molecular generation. [[PAPER]](https://arxiv.org/abs/2301.01829) [[REPO]](https://github.com/juanniwu/t-SMILES/)
 - DrugGen: Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks. [[PAPER]](https://arxiv.org/abs/2302.07868) [[REPO]](https://github.com/HUBioDataLab/DrugGEN)
 - Graphormer: Do Transformers Really Perform Badly for Graph Representation? [[PAPER]](https://openreview.net/forum?id=OeWooOxFwDa) [[REPO]](https://github.com/microsoft/Graphormer)
