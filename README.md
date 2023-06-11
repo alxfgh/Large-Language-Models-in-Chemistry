@@ -27,7 +27,7 @@
 - MatSciBERT: A materials domain language model for text mining and information extraction. [[PAPER]](https://www.nature.com/articles/s41524-022-00784-w) [[REPO]](https://github.com/M3RG-IITD/MatSciBERT)
 - SolvBERT for solvation free energy and solubility prediction: a demonstration of an NLP model for predicting the properties of molecular complexes. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/633d6bbfea6a225b1809e24e) [[REPO]](https://github.com/su-group/SolvBERT)
 - Transformer Quantum State: A Multi-Purpose Model for Quantum Many-Body Problems. [[PAPER]](https://arxiv.org/abs/2208.01758) [[REPO]](https://github.com/yuanhangzhang98/transformer_quantum_state)
-- Taiga: Molecule generation using transformers and policy gradient reinforcement learning [[PAPER]](https://pubmed.ncbi.nlm.nih.gov/37258546/) [[REPO]](https://github.com/eyalmazuz/MolGen)
+- Taiga: Molecule generation using transformers and policy gradient reinforcement learning. [[PAPER]](https://pubmed.ncbi.nlm.nih.gov/37258546/) [[REPO]](https://github.com/eyalmazuz/MolGen)
 
 ## Causal Decoder Only Models (GPT, etc.)
 - MolGPT: Molecular Generation Using a Transformer-Decoder Model. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c7588e469df48597f456ae) [[REPO]](https://github.com/devalab/molgpt)
@@ -42,7 +42,6 @@
 - PrefixMol: Target- and Chemistry-aware Molecule Design via Prefix Embedding. [[PAPER]](https://arxiv.org/abs/2302.07120)
 
 ## Other architectures
-- Graphormer: Do Transformers Really Perform Badly for Graph Representation? [[PAPER]](https://openreview.net/forum?id=OeWooOxFwDa) [[REPO]](https://github.com/microsoft/Graphormer)
 - Fragment-based t-SMILES for de novo molecular generation. [[PAPER]](https://arxiv.org/abs/2301.01829) [[REPO]](https://github.com/juanniwu/t-SMILES/)
 - DrugGen: Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks. [[PAPER]](https://arxiv.org/abs/2302.07868) [[REPO]](https://github.com/HUBioDataLab/DrugGEN)
 - GIMLET: A Unified Graph-Text Model for Instruction-Based Molecule Zero-Shot Learning. [[PAPER]](https://www.biorxiv.org/content/10.1101/2023.05.30.542904v2) [[REPO]](https://github.com/zhao-ht/GIMLET)
@@ -67,5 +66,5 @@
 - The Druglike molecule pretraining strategy for drug discovery. [[PAPER]](https://www.researchsquare.com/article/rs-2492051/v1)
 - Accelerating the design and development of polymeric materials via deep learning: Current status and future challenges. [[PAPER]](https://doi.org/10.1063/5.0131067)
 - Adaptive Language Model Training for Molecular Design. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/64362fa70784a63aeef63ac1)
+- Graphormer: Do Transformers Really Perform Badly for Graph Representation? [[PAPER]](https://openreview.net/forum?id=OeWooOxFwDa) [[REPO]](https://github.com/microsoft/Graphormer)
 - Social Amnesia (History did not start in 2017) [[BOOK]](https://cominsitu.files.wordpress.com/2021/08/russell-jacoby-social-amnesia-a-critique-of-contemporary-psychology-from-adler-to-laing.pdf)
-
