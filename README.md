@@ -70,6 +70,7 @@
 - Discovery of structure-property relations for molecules via hypothesis-driven active learning over the chemical space. [[PAPER]](https://arxiv.org/abs/2301.02665) [[REPO]](https://github.com/aghosh92/SISSO_sGP)
 - REINVENT 2.0 – an AI Tool for De Novo Drug Design. [[PAPER]](https://www.biorxiv.org/content/biorxiv/early/2023/05/31/2023.02.17.529000.full.pdf) [[REPO]](https://github.com/MolecularAI/Reinvent)
   - A Simple Way to Incorporate Target Structural Information in Molecular Generative Models. [[PAPER]](https://www.biorxiv.org/content/biorxiv/early/2023/05/31/2023.02.17.529000.full.pdf) [[REPO]](https://github.com/JingHuangLab/SWIT)
+- Improving Chemical Autoencoder Latent Space and Molecular De novo Generation Diversity with Heteroencoders. [[PAPER]](https://arxiv.org/abs/1806.09300)
 - CDDD: Learning continuous and data-driven molecular descriptors by translating equivalent chemical representations. [[PAPER]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6368215/) [[REPO]](http://https://github.com/jrwnter/cddd)
 - Unsupervised Representation Learning for Proteochemometric Modeling. [[PAPER]](https://www.mdpi.com/1422-0067/22/23/12882)
 - UnCorrupt SMILES: a novel approach to de novo design. [[PAPER]](https://link.springer.com/article/10.1186/s13321-023-00696-x) [[REPO]](https://github.com/LindeSchoenmaker/SMILES-corrector)
