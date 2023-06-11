@@ -26,6 +26,7 @@
 - Unassisted Noise-Reduction of Chemical Reactions Data Sets. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c75487842e65e86ddb4161)
 - Automated Extraction of Chemical Synthesis Actions from Experimental Procedures. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c749fbee301c10e1c79b75)
 - Predicting retrosynthetic pathways using a combined linguistic model and hyper-graph exploration strategy. [[PAPER]](https://arxiv.org/abs/1910.08036)
+- Leveraging Infrared Spectroscopy for Automated Structure Elucidation [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/645df5cbf2112b41e96da616)
 - Neural Scaling of Deep Chemical Models. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/627bddd544bdd532395fb4b5)
 - Graphormer: Do Transformers Really Perform Badly for Graph Representation? [[PAPER]](https://openreview.net/forum?id=OeWooOxFwDa) [[REPO]](https://github.com/microsoft/Graphormer)
 - ChemBERTa-2: Towards Chemical Foundation Models. [[PAPER]](https://arxiv.org/abs/2209.01712)
