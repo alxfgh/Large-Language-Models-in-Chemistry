@@ -31,8 +31,5 @@
 - ChemBERTa-2: Towards Chemical Foundation Models. [[PAPER]](https://arxiv.org/abs/2209.01712)
 - Social Amnesia - History did not start in 2017. [[BOOK]](https://cominsitu.files.wordpress.com/2021/08/russell-jacoby-social-amnesia-a-critique-of-contemporary-psychology-from-adler-to-laing.pdf)
 
-  
-  
-   
-Curated by Alexander Al-Feghali, PhD Student in the Blum Lab & Cosa Lab at McGill University in Montreal :)  
+
 Last Updated June 10th, 2023.
