@@ -21,7 +21,8 @@
 - Chemformer: a pre-trained transformer for computational chemistry. [[PAPER]](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb) [[REPO]](https://github.com/MolecularAI/Chemformer)
 - FragNet: Contrastive Learning-Based Transformer Model for Clustering, Interpreting, Visualizing, and Navigating Chemical Space. [[PAPER]](https://www.mdpi.com/1420-3049/26/7/2065)
 - PanGu Drug Model: Learn a Molecule Like a Human. [[PAPER]](https://www.biorxiv.org/content/10.1101/2022.03.31.485886v1.full)
- - MolBART. [[REPO]](https://github.com/MolecularAI/MolBART) [[MODEL]](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/megamolbart)
+- Transformer-based artificial neural networks for the conversion between chemical notations. [[PAPER]](https://www.nature.com/articles/s41598-021-94082-y) [[REPO]](https://github.com/sergsb/IUPAC2Struct)
+- MolBART. [[REPO]](https://github.com/MolecularAI/MolBART) [[MODEL]](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/megamolbart)
 
 ## Encoder Only Models (BERT, XLNet, etc.)
 - Regression Transformer enables concurrent sequence regression and generation for molecular language modelling. [[PAPER]](https://arxiv.org/abs/2202.01338) [[REPO]](https://github.com/IBM/regression-transformer)
