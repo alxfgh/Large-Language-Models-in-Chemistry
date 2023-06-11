@@ -1,6 +1,6 @@
 # Transformer-based Large Language Models in Chemistry
 
-## Encoder-Decoder Models (T5, T5X, BART)
+## Encoder-Decoder Models (MT, T5, BART)
 - Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction. [[PAPER]](https://arxiv.org/abs/1811.02633) [[REPO]](https://github.com/pschwllr/MolecularTransformer)
 - Multitask Text and Chemistry T5: Unifying Molecular and Textual Representations via Multi-task Language Modelling. [[PAPER]](https://arxiv.org/abs/2301.12586) [[REPO]](https://github.com/GT4SD/multitask_text_and_chemistry_t5)
 - MolT5: Translation between Molecules and Natural Language. [[PAPER]](https://blender.cs.illinois.edu/paper/molt5.pdf) [[REPO]](https://github.com/blender-nlp/MolT5)
