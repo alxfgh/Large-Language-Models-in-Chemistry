@@ -1,5 +1,5 @@
 # Transformer-based Large Language Models in Chemistry
-
+  
 ## Encoder-Decoder Models (T5, BART, Molecular Transformer)
 - Multitask Text and Chemistry T5: Unifying Molecular and Textual Representations via Multi-task Language Modelling. [[PAPER]](https://arxiv.org/abs/2301.12586) [[REPO]](https://github.com/GT4SD/multitask_text_and_chemistry_t5)
 - MolT5: Translation between Molecules and Natural Language. [[PAPER]](https://blender.cs.illinois.edu/paper/molt5.pdf) [[REPO]](https://github.com/blender-nlp/MolT5)
@@ -13,7 +13,7 @@
 - TransformMolecules: Can We Quickly Learn to “Translate” Bioactive Molecules with Transformer Models? [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/639c9de1e9d0fd49a41f6d30) [[REPO]](https://github.com/pfizer-opensource/transform-molecules)
 - A Pre-trained Conditional Transformer for Target-specific De Novo Molecular Generation. [[PAPER]](https://arxiv.org/abs/2210.08749)
 - MolBART. [[REPO]](https://github.com/MolecularAI/MolBART) [[MODEL]](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/megamolbart)
-
+  
 ## Encoder Only Models (BERT, XLNet, etc.)
 - Regression Transformer enables concurrent sequence regression and generation for molecular language modelling. [[PAPER]](https://arxiv.org/abs/2202.01338) [[REPO]](https://github.com/IBM/regression-transformer)
 - MOFormer: Self-Supervised Transformer model for Metal-Organic Framework Property Prediction. [[PAPER]](https://arxiv.org/abs/2210.14188) [[REPO]](https://github.com/zcao0420/MOFormer)
@@ -28,7 +28,7 @@
 - SolvBERT for solvation free energy and solubility prediction: a demonstration of an NLP model for predicting the properties of molecular complexes. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/633d6bbfea6a225b1809e24e) [[REPO]](https://github.com/su-group/SolvBERT)
 - Transformer Quantum State: A Multi-Purpose Model for Quantum Many-Body Problems. [[PAPER]](https://arxiv.org/abs/2208.01758) [[REPO]](https://github.com/yuanhangzhang98/transformer_quantum_state)
 - Taiga: Molecule generation using transformers and policy gradient reinforcement learning. [[PAPER]](https://pubmed.ncbi.nlm.nih.gov/37258546/) [[REPO]](https://github.com/eyalmazuz/MolGen)
-
+  
 ## Causal Decoder Only Models (GPT, etc.)
 - MolGPT: Molecular Generation Using a Transformer-Decoder Model. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c7588e469df48597f456ae) [[REPO]](https://github.com/devalab/molgpt)
 - ChemGPT: Neural Scaling of Deep Chemical Models. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/627bddd544bdd532395fb4b5) [[REPO]](https://github.com/ncfrey/litmatter)
@@ -40,7 +40,7 @@
 - Galactica: A Large Language Model for Science. [[PAPER]](https://arxiv.org/abs/2211.09085) [[REPO]](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 - cMolGPT: A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation. [[PAPER]](https://www.mdpi.com/1420-3049/28/11/4430) [[REPO]](https://github.com/VV123/cMolGPT)
 - PrefixMol: Target- and Chemistry-aware Molecule Design via Prefix Embedding. [[PAPER]](https://arxiv.org/abs/2302.07120)
-
+  
 ## Other architectures
 - Fragment-based t-SMILES for de novo molecular generation. [[PAPER]](https://arxiv.org/abs/2301.01829) [[REPO]](https://github.com/juanniwu/t-SMILES/)
 - DrugGen: Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks. [[PAPER]](https://arxiv.org/abs/2302.07868) [[REPO]](https://github.com/HUBioDataLab/DrugGEN)
@@ -51,7 +51,7 @@
   - A Simple Way to Incorporate Target Structural Information in Molecular Generative Models. [[PAPER]](https://www.biorxiv.org/content/biorxiv/early/2023/05/31/2023.02.17.529000.full.pdf) [[REPO]](https://github.com/JingHuangLab/SWIT)
 - UnCorrupt SMILES: a novel approach to de novo design. [[PAPER]](https://link.springer.com/article/10.1186/s13321-023-00696-x) [[REPO]](https://github.com/LindeSchoenmaker/SMILES-corrector)
 - Crystal Transformer: Self-learning neural language model for Generative and Tinkering Design of Materials. [[PAPER]](https://arxiv.org/abs/2204.11953)
-
+  
 ## General works of Interest
 - A Systematic Survey of Chemical Pre-trained Models. [[PAPER]](https://sxkdz.github.io/files/publications/IJCAI/CPM/CPM.pdf)
 - Comparative Study of Deep Generative Models on Chemical Space Coverage. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c755389abda285f4f8e2d1)
