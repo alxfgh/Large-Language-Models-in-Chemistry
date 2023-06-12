@@ -63,7 +63,7 @@
   
 ## Other architectures
 - GROVER: Self-Supervised Graph Transformer on Large-Scale Molecular Data. [[PAPER]](https://papers.nips.cc/paper_files/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf)
-- DMP: Dual-view Molecule Pre-training. [[PAPER]](https://arxiv.org/abs/2106.10234) [[REPO]](
+- DMP: Dual-view Molecule Pre-training. [[PAPER]](https://arxiv.org/abs/2106.10234) [[REPO]](https://github.com/dual-view-molecule-pretraining/dmp)
 - MICER: a pre-trained encoder–decoder architecture for molecular image captioning. [[PAPER]](https://academic.oup.com/bioinformatics/article/38/19/4562/6656348) [[MODEL]](https://github.com/Jiacai-Yi/MICER)
 - Fragment-based t-SMILES for de novo molecular generation. [[PAPER]](https://arxiv.org/abs/2301.01829) [[REPO]](https://github.com/juanniwu/t-SMILES/)
 - DrugGen: Target Specific De Novo Design of Drug Candidate Molecules with Graph Transformer-based Generative Adversarial Networks. [[PAPER]](https://arxiv.org/abs/2302.07868) [[REPO]](https://github.com/HUBioDataLab/DrugGEN)
@@ -99,3 +99,4 @@
 - Adaptive Language Model Training for Molecular Design. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/64362fa70784a63aeef63ac1)
 - A [note](https://archive.md/OvucI) on transformer architectures.
 - Social Amnesia (History did not start in 2017) [[BOOK]](https://cominsitu.files.wordpress.com/2021/08/russell-jacoby-social-amnesia-a-critique-of-contemporary-psychology-from-adler-to-laing.pdf)
+- Malta – Sweet Magic (1984) [[ALBUM]](https://www.youtube.com/watch?v=vcRTQ_Jj7vw)
