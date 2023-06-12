@@ -84,7 +84,6 @@
 - CDDD: Learning continuous and data-driven molecular descriptors by translating equivalent chemical representations. [[PAPER]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6368215/) [[REPO]](http://https://github.com/jrwnter/cddd)
 - Unsupervised Representation Learning for Proteochemometric Modeling. [[PAPER]](https://www.mdpi.com/1422-0067/22/23/12882)
 - UnCorrupt SMILES: a novel approach to de novo design. [[PAPER]](https://link.springer.com/article/10.1186/s13321-023-00696-x) [[REPO]](https://github.com/LindeSchoenmaker/SMILES-corrector)
-- Crystal Transformer: Self-learning neural language model for Generative and Tinkering Design of Materials. [[PAPER]](https://arxiv.org/abs/2204.11953)
 - Leveraging molecular structure and bioactivity with chemical language models for de novo drug design. [[PAPER]](https://www.nature.com/articles/s41467-022-35692-6#Sec11) [[REPO]](https://zenodo.org/record/7370858)
 - STOUT: SMILES to IUPAC names using neural machine translation. [[PAPER]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-021-00512-4#Sec123) [[MODEL]](https://github.com/Kohulan/Smiles-TO-iUpac-Translator)
   
