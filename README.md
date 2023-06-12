@@ -3,7 +3,7 @@
   
 >*The history of philosophy is the history of forgetting. Problems and ideas once examined fall out of sight and out of mind only to resurface later as novel and new. - R. Jacoby*
   
-## Encoder-Decoder Models (T5, BART, Molecular Transformer, etc.)
+## Encoder-Decoder Models (T5, BART, Molecular Transformer, BLM, etc.)
 - Multitask Text and Chemistry T5: Unifying Molecular and Textual Representations via Multi-task Language Modelling. [[PAPER]](https://arxiv.org/abs/2301.12586) [[REPO]](https://github.com/GT4SD/multitask_text_and_chemistry_t5)
 - MolT5: Translation between Molecules and Natural Language. [[PAPER]](https://blender.cs.illinois.edu/paper/molt5.pdf) [[REPO]](https://github.com/blender-nlp/MolT5)
 - Molecular Transformer: A Model for Uncertainty-Calibrated Chemical Reaction Prediction. [[PAPER]](https://arxiv.org/abs/1811.02633) [[REPO]](https://github.com/pschwllr/MolecularTransformer)
@@ -25,6 +25,8 @@
 - State-of-the-art augmented NLP transformer models for direct and single-step retrosynthesis. [[PAPER]](https://www.nature.com/articles/s41467-020-19266-y#Sec27) [[REPO]](https://github.com/bigchem/synthesis)
 - Struct2IUPAC: Transformer-based artificial neural networks for the conversion between chemical notations. [[PAPER]](https://www.nature.com/articles/s41598-021-94082-y) [[REPO]](https://github.com/sergsb/IUPAC2Struct)
 - Transformer-based Approach for Predicting Chemical Compound Structures. [[PAPER]](https://aclanthology.org/2020.aacl-main.19/)
+- Crystal Transformer: Self-learning neural language model for Generative and Tinkering Design of Materials. [[PAPER]](https://arxiv.org/abs/2204.11953)
+  - Material Transformer Generator: Discovery of 2D materials using Transformer Network based Generative Design. [[PAPER]](https://arxiv.org/abs/2301.05824)
 - MolBART. [[REPO]](https://github.com/MolecularAI/MolBART) [[MODEL]](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/megamolbart)
 
 ## Encoder Only Models (BERT, XLNet, etc.)
@@ -46,6 +48,10 @@
 - SMILES-BERT: Large Scale Unsupervised Pre-Training for Molecular Property Prediction. [[PAPER]](https://par.nsf.gov/servlets/purl/10168888) [[REPO]](https://github.com/uta-smile/SMILES-BERT)
 - MM-Deacon: Multilingual Molecular Representation Learning via Contrastive Pre-training. [[PAPER]](https://arxiv.org/abs/2109.08830)
 - MEMO: A Multiview Contrastive Learning Approach to Molecular Pretraining. [[PAPER]](https://openreview.net/pdf?id=Pm1Q1X3avx1)
+- Molecule Attention Transformer. [[PAPER]](https://arxiv.org/abs/2002.08264) [[REPO]](https://github.com/gmum/MAT)
+  - SolTranNet: A machine learning tool for fast aqueous solubility prediction. [[PAPER]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8900744/) [[REPO]](https://github.com/gnina/SolTranNet)
+- MaterialBERT for natural language processing of materials science texts. [[PAPER]](https://www.tandfonline.com/doi/abs/10.1080/27660400.2022.2124831)
+- Adaptive Language Model Training for Molecular Design. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/64362fa70784a63aeef63ac1)
   
 ## Decoder Only Models (GPT, etc.)
 - MolGPT: Molecular Generation Using a Transformer-Decoder Model. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c7588e469df48597f456ae) [[REPO]](https://github.com/devalab/molgpt)
@@ -59,8 +65,8 @@
 - cMolGPT: A Conditional Generative Pre-Trained Transformer for Target-Specific De Novo Molecular Generation. [[PAPER]](https://www.mdpi.com/1420-3049/28/11/4430) [[REPO]](https://github.com/VV123/cMolGPT)
 - PrefixMol: Target- and Chemistry-aware Molecule Design via Prefix Embedding. [[PAPER]](https://arxiv.org/abs/2302.07120)
 - LigGPT: Molecular Generation using a Transformer-Decoder Model. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c7588e469df48597f456ae) [[REPO]](https://github.com/VirajBagal/LigGPT)
-- X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis. [[PAPER]](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2) 
-  
+- X-MOL: large-scale pre-training for molecular understanding and diverse molecular analysis. [[PAPER]](https://www.biorxiv.org/content/10.1101/2020.12.23.424259v2)
+
 ## Other architectures
 - GROVER: Self-Supervised Graph Transformer on Large-Scale Molecular Data. [[PAPER]](https://papers.nips.cc/paper_files/paper/2020/file/94aef38441efa3380a3bed3faf1f9d5d-Paper.pdf)
 - DMP: Dual-view Molecule Pre-training. [[PAPER]](https://arxiv.org/abs/2106.10234) [[REPO]](https://github.com/dual-view-molecule-pretraining/dmp)
@@ -84,6 +90,8 @@
   
 ## General works of Interest
 - A Systematic Survey of Chemical Pre-trained Models. [[PAPER]](https://sxkdz.github.io/files/publications/IJCAI/CPM/CPM.pdf)
+- Machine intelligence for chemical reaction space. [[PAPER]](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcms.1604)
+- Exploring Chemical Space using Natural Language Processing Methodologies for Drug Discovery. [[PAPER]](https://arxiv.org/abs/2002.06053)
 - Comparative Study of Deep Generative Models on Chemical Space Coverage. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/60c755389abda285f4f8e2d1)
 - Explainability Techniques for Chemical Language Models. [[PAPER]](https://arxiv.org/abs/2305.16192)
 - Unified 2D and 3D Pre-Training of Molecular Representations. [[PAPER]](https://arxiv.org/abs/2207.08806)
@@ -96,7 +104,7 @@
 - Neural Scaling of Deep Chemical Models. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/627bddd544bdd532395fb4b5)
 - The Druglike molecule pretraining strategy for drug discovery. [[PAPER]](https://www.researchsquare.com/article/rs-2492051/v1)
 - Accelerating the design and development of polymeric materials via deep learning: Current status and future challenges. [[PAPER]](https://doi.org/10.1063/5.0131067)
-- Adaptive Language Model Training for Molecular Design. [[PAPER]](https://chemrxiv.org/engage/chemrxiv/article-details/64362fa70784a63aeef63ac1)
+- Materials Transformers Language Models for Generative Materials Design: a benchmark study. [[PAPER]](https://arxiv.org/abs/2206.13578)
 - A [note](https://archive.md/OvucI) on transformer architectures.
 - Social Amnesia (History did not start in 2017) [[BOOK]](https://cominsitu.files.wordpress.com/2021/08/russell-jacoby-social-amnesia-a-critique-of-contemporary-psychology-from-adler-to-laing.pdf)
 - Malta – Sweet Magic (1984) [[ALBUM]](https://www.youtube.com/watch?v=vcRTQ_Jj7vw)
