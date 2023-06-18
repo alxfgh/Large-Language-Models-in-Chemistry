@@ -20,6 +20,8 @@
 - Transformer-CNN: Swiss knife for QSAR modeling and interpretation. [[PAPER]](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00423-w#Sec2) [[REPO]](https://github.com/bigchem/transformer-cnn)
 - SMILES Transformer: Pre-trained Molecular Fingerprint for Low Data Drug Discovery. [[PAPER]](https://arxiv.org/abs/1911.04738) [[REPO]](https://github.com/DSPsleeporg/smiles-transformer)
 - Chemformer: a pre-trained transformer for computational chemistry. [[PAPER]](https://iopscience.iop.org/article/10.1088/2632-2153/ac3ffb) [[REPO]](https://github.com/MolecularAI/Chemformer)
+  - MolBART. [[REPO]](https://github.com/MolecularAI/MolBART)
+  - MegaMolBART. [[MODEL]](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/megamolbart) 
 - FragNet: Contrastive Learning-Based Transformer Model for Clustering, Interpreting, Visualizing, and Navigating Chemical Space. [[PAPER]](https://www.mdpi.com/1420-3049/26/7/2065)
 - PanGu Drug Model: Learn a Molecule Like a Human. [[PAPER]](https://www.biorxiv.org/content/10.1101/2022.03.31.485886v1.full)
 - State-of-the-art augmented NLP transformer models for direct and single-step retrosynthesis. [[PAPER]](https://www.nature.com/articles/s41467-020-19266-y#Sec27) [[REPO]](https://github.com/bigchem/synthesis)
@@ -27,7 +29,7 @@
 - Transformer-based Approach for Predicting Chemical Compound Structures. [[PAPER]](https://aclanthology.org/2020.aacl-main.19/)
 - Crystal Transformer: Self-learning neural language model for Generative and Tinkering Design of Materials. [[PAPER]](https://arxiv.org/abs/2204.11953)
   - Material Transformer Generator: Discovery of 2D materials using Transformer Network based Generative Design. [[PAPER]](https://arxiv.org/abs/2301.05824)
-- MolBART. [[REPO]](https://github.com/MolecularAI/MolBART) [[MODEL]](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/clara/models/megamolbart)
+
 
 ## Encoder Only Models (BERT, XLNet, etc.)
 - Regression Transformer enables concurrent sequence regression and generation for molecular language modelling. [[PAPER]](https://arxiv.org/abs/2202.01338) [[REPO]](https://github.com/IBM/regression-transformer)
